@@ -17,6 +17,7 @@ nav {
 
 .logo {
   color: #333333;
+  overflow: hidden;
 }
 
 .hero-section {
